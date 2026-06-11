@@ -1,0 +1,4 @@
+farm_id,farmer_name,village,district,crop,mittiscore,tier,tier_desc,delta,insight,component_pesticide_score,component_organic_carbon,component_ph_suitability,component_nitrogen,component_phosphorus,component_potassium,component_ndvi_satellite
+MP-NMD-001,Ramesh Patel,Sehore,Narmadapuram,Soybean,66.3,Gold,Strong organic transition progress,12.1,Priority improvement: phosphorus needs attention — apply rock phosphate,92.0,36.0,100.0,44.4,30.0,61.1,71.0
+UP-VNS-014,Sunita Devi,Mirzapur,Varanasi,Wheat,38.8,Silver,Active transition — chemical use declining,10.8,Priority improvement: nitrogen is deficient — use legume cover crops,58.0,20.5,92.5,0.0,0.0,0.0,48.0
+MP-IDR-033,Kavita Sharma,Ujjain,Indore,Garlic,93.8,Organic,Meets premium organic standards,25.7,Priority improvement: crop canopy health needs monitoring,99.0,92.5,100.0,86.1,85.0,91.7,83.0
